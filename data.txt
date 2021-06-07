@@ -1,0 +1,6 @@
+Amazon|abc@gmail.com|123456
+Google|abc@gmail.com|pass12344
+dsfsdf|abc@gmail.com|sfdsfsfds
+amazon|abc@gmail.com|2334r43f4
+aaaa|abc@gmail.com|ttttyy
+Facebook|abc@gmail.com|3t^nlno4ms4^$r^
