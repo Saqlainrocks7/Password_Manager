@@ -1,5 +1,6 @@
 # Password_Manager
 ## Overview
+This is a Tkinter GUI App.
 ## Features
 ## Demo
 ![Screenshot (50)](https://user-images.githubusercontent.com/48888895/121207198-b73fe680-c896-11eb-8e56-e156d43c7340.png)
