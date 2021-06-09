@@ -9,4 +9,5 @@ This is a Tkinter GUI App.
 5. After all the details are entered the user can click on the 'Add' button so that the details get written into a text file called 'data.txt'.
 ## Demo
 ![Screenshot (50)](https://user-images.githubusercontent.com/48888895/121207198-b73fe680-c896-11eb-8e56-e156d43c7340.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/48888895/121381573-77930080-c963-11eb-98f7-df59d6591531.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/48888895/121207209-bb6c0400-c896-11eb-8223-87169bef8432.png)
